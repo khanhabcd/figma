@@ -1,0 +1,20 @@
+.app {
+  background-color: #040C18;
+  justify-content: center;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  position: relative;
+  max-width: 1440px;
+  margin: auto;
+  padding: 80px 80px 0 80px
+}
+.img{
+  position: absolute;
+}
