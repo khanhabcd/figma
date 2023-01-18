@@ -1,12 +1,14 @@
+
+
 .app {
   background-color: #040C18;
   justify-content: center;
-
 }
 
 * {
   margin: 0;
   padding: 0;
+  
 }
 
 .container {

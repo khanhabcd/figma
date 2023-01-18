@@ -8,7 +8,7 @@ export default function navbar() {
       <Box style={sx.gpt3}>
         <Typography style={sx.gpt}>GPT-3</Typography>
         <Box style={sx.head}>
-          <Typography style={sx.title}>Home</Typography>
+          <Typography style={sx.title}><a style={sx.a} href="#aa">Home</a></Typography>
           <Typography style={sx.title}>What is GPT?</Typography>
           <Typography style={sx.title}>Open AI</Typography>
           <Typography style={sx.title}>Case Studies</Typography>

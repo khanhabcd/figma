@@ -34,8 +34,11 @@ export const sx = {
   container: {
     display: "flex",
     justifyContent: "space-between",
-
     height: "58px",
     Top: "58px",
   },
+  a:{
+    color: "white",
+    textDecoration:"none"
+  }
 };

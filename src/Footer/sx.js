@@ -40,7 +40,8 @@ export const sx = {
     justifyContent: "space-around",
   },
   f3:{
-    margin:150,
+    paddingBottom:20,
+    marginTop:150,
     color: "#fff",
     display: "flex",
     justifyContent:"center"

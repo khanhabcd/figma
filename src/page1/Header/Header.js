@@ -28,7 +28,7 @@ export default function Header() {
                 style={sx.searchBar}
               />
               <Button style={sx.btn} variant="contained">
-                GetStarted
+                Get Start
               </Button>
             </Box>
           </Typography>
