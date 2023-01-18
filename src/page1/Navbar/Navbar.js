@@ -23,7 +23,6 @@ export default function navbar() {
           Sign up
         </Button>
       </Box>
-      
     </Box>
   );
 }
